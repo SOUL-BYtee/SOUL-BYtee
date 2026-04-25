@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed;Electronics+Engineer;Networking+%7C+Telecom+%7C+Linux;Building+Real+Systems&center=true&width=500&height=50">
 </p>
-<br><br>Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
+Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
 
 
 ## 🌐 Socials:
