@@ -2,8 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed&center=true&width=500&height=40&duration=4000&pause=2000"><br> <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Communication+Engineer&center=true&width=500&height=40&duration=4000&pause=2000"><br> <img src="https://readme-typing-svg.herokuapp.com/?lines=Networking+%7C+Telecom+%7C+Electronics+%7C+Linux&center=true&width=500&height=40&duration=4000&pause=2000">
 
-<br><br>
-
+---
 ## GitHub Stats
 
 <img src="https://github-readme-stats.shion.dev/api?username=SOUL-BYtee&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false"><br> <img src="https://streak-stats.demolab.com/?user=SOUL-BYtee&theme=highcontrast&hide_border=true"><br> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SOUL-BYtee&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
