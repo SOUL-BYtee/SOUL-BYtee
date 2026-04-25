@@ -1,7 +1,8 @@
 <p align="center">
-  Omar Ayman Mohamed<br>
-  Electronics Engineer<br>
-  Networking | Telecom | Linux
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed&center=true&width=500&height=50&duration=4000&pause=2000">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+&+Communication+Engineer&center=true&width=500&height=50&duration=4000&pause=2000">
 </p>
 Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
 
