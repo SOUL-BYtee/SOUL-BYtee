@@ -48,6 +48,29 @@
 <a href="https://behance.net/omaraymansoul"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a> <a href="https://discord.gg/soul2922"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a> <a href="https://facebook.com/omar.ayman.18062533"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a> <a href="https://instagram.com/omar_ayman71"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a> <a href="https://linkedin.com/in/omar-ayman-015b31317"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a> <a href="https://x.com/aym18545950"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a> <a href="mailto:omar.2219031@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 
 ---
+## GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=SOUL-BYtee&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<br>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=SOUL-BYtee&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
