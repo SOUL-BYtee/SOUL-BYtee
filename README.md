@@ -30,8 +30,7 @@ Experienced in building practical projects that combine hardware, software, and 
 * Background in **Computer Networks (CCNA level)** with ongoing preparation for **CCNP**
 * Studied **Mobile Networks fundamentals** and progressing toward **IMS and core telecom systems**
 * Hands-on experience in **Linux administration, automation, and system monitoring**
-* Strong academic foundation in **Electronics, Analog and**
-* ** Digital Communication Systems, Image Processing, Logic Design, Antennas, and Microwave Engineering**
+* Strong academic foundation in **Electronics, Analog and Digital Communication Systems, Image Processing, Logic Design, Antennas, and    Microwave Engineering**
 * Proven ability to translate theory into **real-world engineering projects**
 * Comfortable working across **hardware, low-level systems, and network environments**
 
