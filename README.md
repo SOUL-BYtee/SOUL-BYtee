@@ -1,6 +1,5 @@
-# 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed;Electronics+Engineer;Networking+%7C+Telecom+%7C+Linux;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed;Electronics+Engineer;Networking+%7C+Telecom+%7C+Linux&center=true&width=500&height=50&duration=4000&pause=2000">
 </p>
 Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
 
