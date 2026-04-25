@@ -25,18 +25,6 @@ Experienced in building practical projects that combine hardware, software, and 
 
 ---
 
-## Education
-
-**Faculty of Engineering – Electronics and Communication Engineering**
-Zagazig University
-
-**STEM High School Graduate**
-
-* Intensive project-based learning environment
-* Built multiple multidisciplinary projects combining electronics, programming, and system design
-
----
-
 ## Current Focus
 
 * Advanced Linux administration
