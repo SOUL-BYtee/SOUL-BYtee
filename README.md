@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Communication+Engineer&center=true&width=500&height=50&duration=4000&pause=2000">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Networking+%7C+Telecom+%7C+Linux&center=true&width=500&height=50&duration=4000&pause=2000">
+</p>
 Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
 
 
