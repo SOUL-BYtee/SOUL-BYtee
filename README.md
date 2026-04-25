@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Networking+%7C+Telecom+%7C+Electronics+%7C+Linux&center=true&width=500&height=40&duration=4000&pause=2000">
 </div>
 
----
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SOUL-BYtee&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SOUL-BYtee&theme=highcontrast&hide_border=true)<br/>
