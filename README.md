@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Communication+Engineer&center=true&width=500&height=40&duration=4000&pause=2000"><br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Networking+%7C+Telecom+%7C+Linux&center=true&width=500&height=40&duration=4000&pause=2000">
 </div>
-Electronics and Communication Engineering student with a strong focus on networking, telecom systems, and system-level engineering.<br>Experienced in building practical projects that combine hardware, software, and real-world problem solving.
-
+---
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/omaraymansoul) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/soul2922) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/omar.ayman.18062533) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omar_ayman71) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-ayman-015b31317) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aym18545950) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.2219031@gmail.com) 
