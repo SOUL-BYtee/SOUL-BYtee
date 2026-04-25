@@ -8,7 +8,6 @@
 <img src="https://github-readme-stats.shion.dev/api?username=SOUL-BYtee&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false"><br> <img src="https://streak-stats.demolab.com/?user=SOUL-BYtee&theme=highcontrast&hide_border=true"><br> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SOUL-BYtee&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
 
 
-## Tech Stack
 
 <div align="center">
 
@@ -22,7 +21,6 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
 
-<br><br>
 
 <!-- Tools -->
 
