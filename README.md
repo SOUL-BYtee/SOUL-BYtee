@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Omar+Ayman+Mohamed&center=true&width=500&height=40&duration=4000&pause=2000"><br> <img src="https://readme-typing-svg.herokuapp.com/?lines=Electronics+and+Communication+Engineer&center=true&width=500&height=40&duration=4000&pause=2000"><br> <img src="https://readme-typing-svg.herokuapp.com/?lines=Networking+%7C+Telecom+%7C+Electronics+%7C+Linux&center=true&width=500&height=40&duration=4000&pause=2000">
 
 <br><br>
-
-<!-- GitHub Stats -->
 
 ## GitHub Stats
 
