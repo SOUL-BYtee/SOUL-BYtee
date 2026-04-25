@@ -29,8 +29,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black"/>
 
-<br><br>
-
+<br>
 <!-- Design -->
 
 <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white"/>
