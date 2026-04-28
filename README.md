@@ -60,7 +60,8 @@
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=SOUL-BYtee&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+  <img alt="GitHub Trophies"
+       src="https://trophy.ryglcloud.net/?username=SOUL-BYtee&theme=onedark&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 <br>
