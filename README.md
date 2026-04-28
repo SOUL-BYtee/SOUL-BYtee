@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white"/>
 
-<br><br>
+<br>
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/MATLAB-orange?style=plastic&logo=Mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"/>
 
-<br><br>
+<br>
 
 <!-- Electronics Simulation -->
 <img src="https://img.shields.io/badge/Cadence-Virtuoso-red?style=plastic"/>
@@ -41,15 +41,13 @@
 <img src="https://img.shields.io/badge/ADS-RF%20Design-green?style=plastic"/>
 <img src="https://img.shields.io/badge/Circuit%20Wizard-grey?style=plastic"/>
 
-<br><br>
+<br>
 
 <!-- Design -->
-<img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white"/>
 
 </div>
 
